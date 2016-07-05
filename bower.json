@@ -1,0 +1,23 @@
+{
+  "name": "editor-node",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "\u001b[01;31m\u001b[K\"name\"\u001b[m\u001b[K: \"Sabri Helal\"",
+    "<\u001b[01;31m\u001b[K\"email\"\u001b[m\u001b[K: null",
+    ">"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "codemirror": "^5.16.0"
+  }
+}
